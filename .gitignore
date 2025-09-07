@@ -1,0 +1,59 @@
+# Synthos AI - Git Ignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Synthos specific
+.data/
+.cache/
+*.log
+*.tmp
+
+# Memory files (keep structure but ignore content)
+.synthos_memory.json
+.synthos_session.json
+
+# Documentation build
+_build/
+out/
+reports/
+
+# Large media files
+*.mp3
+*.wav
+*.mp4
+*.avi
