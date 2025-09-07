@@ -1,0 +1,10 @@
+[
+  {
+    "id": "tc1",
+    "agent_type": "trekcore",
+    "input": {"action": "list_categories"}
+  }
+]
+
+
+

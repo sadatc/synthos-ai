@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sfx1",
+    "agent_type": "sfx",
+    "input": {
+      "base_url": "https://www.trekcore.com/audio/",
+      "list_only": true,
+      "max_pages": 0,
+      "same_origin_only": true
+    }
+  }
+]
+
+
+
